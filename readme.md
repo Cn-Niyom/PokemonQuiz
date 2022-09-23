@@ -6,7 +6,7 @@
 
 **ข้อที่ 1 ให้สร้าง Fuction ที่ต้อง Retrun ค่า Array ที่มีเฉพาะ Pokemon Type เป็น fire และต้องเรียง id จากน้อยไปมากด้วย**
 
-**ข้อที่ 2 ให้สร้าง Fuction ที่ต้อง Retrun ค่า Array ของ Pokemon ที่มี atk มากสุดของแต่ละ type และเรียงตาม atk จากมากไปน้อย**
+**ข้อที่ 2 ให้สร้าง Fuction ที่ต้อง Retrun ค่า Array ของ Pokemon ที่มี atk มากสุดของแต่ละ type ซึ่งประกอบด้วย grass, fire, electric และเรียงตาม atk จากมากไปน้อย**
 
 **วัตถุประสงค์**
 
